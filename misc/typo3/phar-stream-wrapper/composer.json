@@ -8,6 +8,7 @@
     "require": {
         "php": "^5.3.3|^7.0",
         "ext-json": "*",
+        "ext-ftp": "*",
         "brumann/polyfill-unserialize": "^1.0"
     },
     "require-dev": {
